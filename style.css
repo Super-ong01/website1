@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(63, 21, 102);
+    text-align: center;
+    font-size:35px;
+  }
+  pic{
+    border: 5px solid blue;
+    border-radius: 20px;
+  }
+  img2{
+    border: 5px solid rgb(230, 14, 36);
+    border-radius: 20px;
+  }
+  .f44{
+    font-size:50px;
+
+  }
+  #box1{
+    border: 2px solid #0000ff;
+    border-radius: 20px;
+    color : #99003d;
+    text-align:center;
+    font-size: 30px;
+    font-weight: 800;
+    width: 100%;
+}
+
+.box2{
+    color: #559900;  
+}
